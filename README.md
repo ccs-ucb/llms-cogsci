@@ -45,9 +45,9 @@ What do we learn about human cognition from the successes and failures of large 
 **Practical Implications?**
 Do we need more cognitive science, or less? Who could be better qualified than cognitive scientists to evaluate the capabilities of language models? -- a task that is increasingly central to national and international regulation of AI systems and to ethical integration of machine learning into economies. Historically, the quest to build thinking machines has been a major motivation for basic research in cognitive science. What does this motivation look like in today's context? What is the role of cognitive science research in AI interpretability and AI ethics? Should consumer-oriented research priorities play a greater role in basic research?  -->
 
-### Assessment: Collaborative Course Paper
+### Assessment: Collaborative Course Paper (or Research Project)
 
-The goal for this seminar is to produce at least one perspective or review paper, co-authored by seminar participants. Depending on the number of participants, we may cluster into groups working on different papers, or collaborate on a single piece. A full first-draft of the paper is due Friday May 3rd. Participants who do not wish to co-athor a paper can choose to write a short single-authored reflection peice, review, or position paper relating to the intersection of language models and their own research (approximately 1500 words). 
+The goal for this seminar is to produce at least one perspective or review paper, co-authored by seminar participants. Depending on the number of participants, we may cluster into groups working on different papers, or collaborate on a single piece. A full first-draft of the paper is due Friday May 3rd. Participants who do not wish to co-athor a paper can choose to write a short single-authored reflection peice, review, or position paper relating to the intersection of language models and their own research (approximately 1500 words). I would also be happy to consider supervising relevant research projects as a subtitute for this requirement. 
 
 
 ## Schedule [Tentative]
@@ -86,7 +86,7 @@ The schedule below is tenatative because the selection and sequence of readings 
 
 | Date       | Topic | Presenter | Reading |
 |------------|----------|----------|----------|
-| 2024-04-19 | Reflections | | Gary Lupyan on [Metaphors for LLMs](https://www.youtube.com/watch?v=UzgU4xAiTsM) (~20 minute audio presentation) <br><br> Atari, M., Xue, M. J., Park, P. S., Blasi, D., & Henrich, J. (2023). [Which humans?.](https://osf.io/preprints/psyarxiv/5b26t) |
+| 2024-04-19 | Reflections | | Binz, M., Alaniz, S., Roskies, A., Aczel, B., Bergstrom, C. T., Allen, C., ... & Schulz, E. (2023). [How should the advent of large language models affect the practice of science?](https://osf.io/preprints/osf/yr9xb). arXiv preprint arXiv:2312.03759. <br><br> Gary Lupyan on [Metaphors for LLMs](https://www.youtube.com/watch?v=UzgU4xAiTsM) (~20 minute audio presentation) <br><br> Atari, M., Xue, M. J., Park, P. S., Blasi, D., & Henrich, J. (2023). [Which humans?.](https://osf.io/preprints/psyarxiv/5b26t) |
 | 2024-04-26 | Outlook and Conclusions |          | Mitchell, M., & Krakauer, D. C. (2023). [The debate over understanding in AI’s large language models](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120). Proceedings of the National Academy of Sciences, 120(13), e2215907120. <br><br>  Frank, M.C. [Openly accessible LLMs can help us to understand human cognition](https://doi.org/10.1038/s41562-023-01732-4). Nature Human Behaviour (2023) |
 | 2024-05-03 |Closing thoughts & Course Paper Submission Deadline| | Noah Goodman on [LLMs and future psychology](https://noahgoodman.substack.com/p/llms-and-future-psychology?)|
 
