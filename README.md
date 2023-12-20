@@ -179,6 +179,7 @@ Here is a list of potential readings, approximately organized according to struc
 
 * Stella, M., Hills, T. T., & Kenett, Y. N. (2023). [Using cognitive psychology to understand GPT-like models needs to extend beyond human biases](https://www.pnas.org/doi/abs/10.1073/pnas.2312911120). Proceedings of the National Academy of Sciences, 120(43), e2312911120.
 
+* Kosoy, E., Reagan, E. R., Lai, L., Gopnik, A., & Cobb, D. K. (2023). [Comparing Machines and Children: Using Developmental Psychology Experiments to Assess the Strengths and Weaknesses of LaMDA Responses](https://arxiv.org/pdf/2305.11243.pdf). arXiv preprint arXiv:2305.11243. 
 
 *Knowledge from Language*
 
