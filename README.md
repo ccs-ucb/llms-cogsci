@@ -3,7 +3,7 @@
 UC Berkeley Cognition Seminar, Spring 2024, 2 Units
 
 - Friday 11am - 1pm Berkeley Way West 1213
-- Instructor: Bill Thompson [wdt@berkeley.edu](mailto:wdt@berkeley.edu)
+- Instructor: [Bill Thompson](https://billdthompson.github.io) [wdt@berkeley.edu](mailto:wdt@berkeley.edu)
 - Course website: [github.com/ecl-ucb/290Q](https://github.com/ecl-ucb/290Q)
 - In the course catalogue: [classes.berkeley.edu](https://classes.berkeley.edu/content/2024-spring-psych-290q-001-sem-001)
 - Course paper due: Friday May 3rd [tentative]
@@ -56,9 +56,9 @@ The schedule below is tenatative because the selection and sequence of readings 
 
 ### Part 1: Introduction
 
-| Date       | Topic | Presenter | Reading |
+| Date       | Topic | Presenters | Reading |
 |------------|----------|----------|----------|
-| 2024-01-19 | Introduction & Course Overview | Bill Thompson | OpenAI: [Introducing ChatGPT](https://openai.com/blog/chatgpt) & Google CEO Sundar Pichai on [the coming age of AI](https://www.technologyreview.com/2023/12/06/1084539/google-ceo-sundar-pichai-on-gemini-and-the-coming-age-of-ai/) |
+| 2024-01-19 | Introduction & Course Overview | [Bill Thompson](https://billdthompson.github.io) | OpenAI: [Introducing ChatGPT](https://openai.com/blog/chatgpt) & Google CEO Sundar Pichai on [the coming age of AI](https://www.technologyreview.com/2023/12/06/1084539/google-ceo-sundar-pichai-on-gemini-and-the-coming-age-of-ai/) |
 | 2024-01-26 | Scene Setting: what are the stakes? | Guest Speaker: [Mayank Agrawal](https://mayank-agrawal.com/), Co-founder of [Roundatable.ai](https://roundtable.ai/)      | Dillion, D., Tandon, N., Gu, Y., & Gray, K. (2023). [Can AI language models replace human participants?](https://www.sciencedirect.com/science/article/abs/pii/S1364661323000980). Trends in Cognitive Sciences. <br><br> Crockett, M., & Messeri, L. (2023). [Should large language models replace human participants?](https://osf.io/preprints/psyarxiv/4zdx9) Psyarxiv preprint. <br><br>And/Or<br><br>  Harding, J., D’Alessandro, W., Laskowski, N. G., & Long, R. (2023). [AI language models cannot replace human research participants.](https://link.springer.com/article/10.1007/s00146-023-01725-x#auth-Jacqueline-Harding-Aff1) AI & SOCIETY, 1-3.         |
 | 2024-02-02 | Scene Setting: what are the stakes? | | Veselovsky, V., Ribeiro, M. H., & West, R. (2023). [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899) arXiv preprint arXiv:2306.07899. <br><br> Kidd, C., & Birhane, A. (2023). [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248). Science, 380(6651), 1222-1223.         |
 | 2024-02-09 | Remarkable sucesses (and limitations) |          |  Meta Fundamental AI Research Diplomacy Team, Bakhtin, A., Brown, N., Dinan, E., Farina, G., Flaherty, C., ... & Zijlstra, M. (2022). [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/abs/10.1126/science.ade9097). Science, 378(6624), 1067-1074. <br><br>  Lindsay, G.W. [LLMs are not ready for editorial work](https://doi.org/10.1038/s41562-023-01730-6). Nature Human Behaviour (2023).         |
