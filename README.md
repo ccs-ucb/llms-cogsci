@@ -246,6 +246,8 @@ Here is a list of potential readings, approximately organized according to struc
 
 * Buschoff, L. M. S., Akata, E., Bethge, M., & Schulz, E. (2023). [Have we built machines that think like people?](https://arxiv.org/abs/2311.16093). arXiv preprint arXiv:2311.16093.
 
+* Harvey Lederman, Kyle Mahowald (2024) [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://arxiv.org/abs/2401.04854) arXiv preprint arxiv::2401.04854
+
 
 *Relevant Engineering/ML Papers*
 
