@@ -78,7 +78,7 @@ The schedule below is tenatative because the selection and sequence of readings 
 
 | Date       | Topic | Presenter | Reading |
 |------------|----------|----------|----------|
-| 2024-04-05 | LLMs as tools: psychological methods |          |  Li, B. Z., Tamkin, A., Goodman, N., & Andreas, J. (2023). [Eliciting Human Preferences with Language Models](https://arxiv.org/abs/2310.11589). arXiv preprint arXiv:2310.11589. <br><br>  Rathje, S., Mirea, D. M., Sucholutsky, I., Marjieh, R., Robertson, C., & Van Bavel, J. J. (2023). [GPT is an effective tool for multilingual psychological text analysis](https://osf.io/preprints/psyarxiv/sekf5/). OSF Preprint          |
+| 2024-04-05 | Causal Understanding from Passive Training? | [Andrew Lampinen](https://lampinen.github.io/), Google Deepmind | Lampinen, A., Chan, S., Dasgupta, I., Nam, A., & Wang, J. (2024). [Passive learning of active causal strategies in agents and language models](https://arxiv.org/abs/2305.16183). Advances in Neural Information Processing Systems, 36. |
 | 2024-04-12 | LLMs as tools: behavioral simulation  |          | Liu, R., Yen, H., Marjieh, R., Griffiths, T. L., & Krishna, R. (2023). [Improving Interpersonal Communication by Simulating Audiences with Language Models](https://arxiv.org/pdf/2311.00687.pdf). arXiv preprint arXiv:2311.00687. <br><br>  Törnberg, P., Valeeva, D., Uitermark, J., & Bail, C. (2023). [Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms](https://arxiv.org/abs/2310.05984). arXiv preprint arXiv:2310.05984    |
 
 ### Part 4: Implications for Cognitive Science and Cognitive Scientists
