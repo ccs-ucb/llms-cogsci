@@ -79,7 +79,7 @@ The schedule below is tenatative because the selection and sequence of readings 
 | Date       | Topic | Presenter | Reading |
 |------------|----------|----------|----------|
 | 2024-04-05 | Causal Understanding from Passive Training? | [Andrew Lampinen](https://lampinen.github.io/), Google Deepmind | Lampinen, A., Chan, S., Dasgupta, I., Nam, A., & Wang, J. (2024). [Passive learning of active causal strategies in agents and language models](https://arxiv.org/abs/2305.16183). Advances in Neural Information Processing Systems, 36. |
-| 2024-04-12 | LLMs as tools: behavioral simulation  |          | Liu, R., Yen, H., Marjieh, R., Griffiths, T. L., & Krishna, R. (2023). [Improving Interpersonal Communication by Simulating Audiences with Language Models](https://arxiv.org/pdf/2311.00687.pdf). arXiv preprint arXiv:2311.00687. <br><br>  Törnberg, P., Valeeva, D., Uitermark, J., & Bail, C. (2023). [Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms](https://arxiv.org/abs/2310.05984). arXiv preprint arXiv:2310.05984    |
+| 2024-04-12 | Real-world Planning with LLMs  |  Vijay Ramesh, VP of AI @ [Regrello](https://www.regrello.com/)  | Kambhampati, S., Valmeekam, K., Guan, L., Stechly, K., Verma, M., Bhambri, S., ... & Murthy, A. (2024). [LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks](https://arxiv.org/abs/2402.01817) arXiv preprint arXiv:2402.01817. |
 
 ### Part 4: Implications for Cognitive Science and Cognitive Scientists
 
